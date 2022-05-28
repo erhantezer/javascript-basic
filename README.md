@@ -709,7 +709,7 @@ console.log('python'.length > 'dragon'.length)   // false
 Try to understand the above comparisons with some logic. Remembering without any logic might be difficult.
 JavaScript is somehow a wired kind of programming language. JavaScript code run and give you a result but unless you are good at it may not be the desired result.
 
-As rule of thumb, if a value is not true with == it will not be equal with ===. Using === is safer than using ==. The following [link](https://dorey.github.io/JavaScript-Equality-Table/) has an exhaustive list of comparison of data types.
+
 
 ### Logical Operators
 
@@ -874,7 +874,7 @@ These are not all the window methods we will have a separate section to go deep 
 Time is an important thing. We like to know the time a certain activity or event. In JavaScript current time and date is created using JavaScript Date Object. The object we create using Date object provides many methods to work with date and time.The methods we use to get date and time information from a date object values are started with a word _get_ because it provide the information.
 _getFullYear(), getMonth(), getDate(), getDay(), getHours(), getMinutes, getSeconds(), getMilliseconds(), getTime(), getDay()_
 
-![Date time Object](../images/date_time_object.png)
+![Date time Object](./images/date_time_object.png)
 
 ### Creating a time object
 
@@ -989,7 +989,6 @@ console.log(`${date}/${month}/${year} ${hours}:${minutes}`) // 4/1/2020 0:56
 
 🌕  You have boundless energy. You have just completed day 3 challenges and you are three steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
 
-## 💻 Day 3: Exercises
 
 ### Exercises: Level 1
 
