@@ -1,3 +1,4 @@
+# Best Practice
 ### String Methods
 
 Everything in JavaScript is an object. A string is a primitive data type that means we can not modify it once it is created. The string object has many string methods. There are different string methods that can help us to work with strings.
