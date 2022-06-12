@@ -7,7 +7,6 @@ let string = 'I love JavaScript. If you do not love JavaScript what else can you
 console.log(string.match('love')) //
 /*
 output
-
 ["love", index: 2, input: "I love JavaScript. If you do not love JavaScript what else can you love.", groups: undefined]
 */
 let pattern = /love/gi
